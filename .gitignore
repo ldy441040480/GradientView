@@ -1,0 +1,11 @@
+*.DS_Store
+/build
+/.gradle
+/.idea
+/gradle
+local.properties
+gradlew
+gradlew.bat
+gradle.properties
+GradientView.iml
+project.properties
