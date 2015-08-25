@@ -1,11 +1,7 @@
-*.DS_Store
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
 /build
-/.gradle
-/.idea
-/gradle
-local.properties
-gradlew
-gradlew.bat
-gradle.properties
 GradientView.iml
-project.properties
